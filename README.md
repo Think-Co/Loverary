@@ -77,13 +77,12 @@ To set up the project on your local machine, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to us:
 
 - **Email**: thinkCo@gmail.com
-- **GitHub**: [](https://github.com/Think-Co)
 
 Happy Managing!
